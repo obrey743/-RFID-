@@ -1,5 +1,5 @@
 /*Project: RFID equipment inventory management system              *
- *By Obrey Muchena & Edward Phiri                                  *
+ *By Obrey Muchena                                  *
  *Date:21 June 2023                                                 *
  ******************************************************************/
 #include <LiquidCrystal.h>
